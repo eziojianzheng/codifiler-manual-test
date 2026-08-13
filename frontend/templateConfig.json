@@ -1,0 +1,19 @@
+{
+  "footer": { },
+  "globalSearch": {
+    "show": true
+  },
+  "header": { },
+  "login": {
+    "template": "LoginSplit"
+  },
+  "logo": {
+    "alt": "Logo",
+    "src": ""
+  },
+  "navbar": "$$$$ref:text:navbar.json",
+  "sidebar": {
+    "collapsible": true
+  },
+  "title": "Codifier AutoTest"
+}

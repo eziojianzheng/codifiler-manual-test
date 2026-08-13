@@ -8,6 +8,10 @@
     "externalDataSourceList": [ ],
     "frontEndConfig": "$$$$ref:text:frontend/frontEndConfig.json",
     "name": "Codifier AutoTest",
+    "projectSettings": {
+      "projectSettings": "{\"client\":{\"commitTriggerUrl\":\"https://ceta.global.bizopx.ai/codifier/api/commit/codifier-manual-test/tom?X-Access-Token=Zvx7023fF3OFpvOSaAncfkyhtChd0GkP-kPWcMWx0zk\"}}",
+      "projectToken": "codifier-autotest"
+    },
     "tags": "test",
     "token": "codifier-autotest"
   }

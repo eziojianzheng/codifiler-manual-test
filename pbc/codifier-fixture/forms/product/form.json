@@ -55,8 +55,8 @@
       "type": "TEXT_BOX"
     },
     {
-      "maxValue": 9999999,
-      "minValue": 0,
+      "maxValue": 9999999.0,
+      "minValue": 0.0,
       "name": "单价",
       "storageField": "value3",
       "token": "price",

@@ -1,4 +1,5 @@
 {
+  "description": "checkdsadsa",
   "name": "Codifier Cross-PBC Demo",
   "nodeList": [
     {
@@ -26,7 +27,6 @@
       "nodeName": "调用其他PBC的Groovy流程",
       "subFlowDefinitionToken": "codifier-groovy-demo",
       "subFlowPbcToken": "codifier-fixture",
-      "transactionalPropagationType": "SUPPORTS",
       "type": "SUB_FLOW"
     },
     {

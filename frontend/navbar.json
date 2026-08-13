@@ -1,0 +1,10 @@
+{
+  "appearance": "light",
+  "items": [
+    {
+      "icon": "oct:home",
+      "label": "testnewof列表",
+      "to": "/codifier-fixture2/page/testnewof-form-list"
+    }
+  ]
+}
