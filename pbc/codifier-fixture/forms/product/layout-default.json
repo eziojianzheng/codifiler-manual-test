@@ -26,6 +26,11 @@
                     },
                     "fields": [
                       {
+                        "component": "NumberPicker",
+                        "id": "digital",
+                        "title": "数字"
+                      },
+                      {
                         "component": "Input",
                         "id": "name",
                         "title": "产品名称",
@@ -69,6 +74,14 @@
                         "title": "上市日期"
                       }
                     ]
+                  },
+                  {
+                    "component": "Input",
+                    "id": "singleLineText",
+                    "title": "单行文本",
+                    "validation": {
+                      "maxLength": 200
+                    }
                   }
                 ],
                 "key": "basic",
