@@ -1,0 +1,37 @@
+{
+  "dataLocation": "LOCAL",
+  "fields": [
+    {
+      "maxLength": 200,
+      "name": "多行文本",
+      "storageField": "value2",
+      "token": "multilineText",
+      "type": "TEXTAREA"
+    },
+    {
+      "maxLength": 200,
+      "name": "单行文本",
+      "storageField": "value1",
+      "token": "singleLineText",
+      "type": "TEXT_BOX"
+    }
+  ],
+  "isAutoLock": 0,
+  "isDeletableWhenReferenced": 1,
+  "isInnerEntity": 0,
+  "isMasterData": 0,
+  "layouts": [
+    {
+      "defaultLayout": true,
+      "name": "布局",
+      "sortIndex": 0,
+      "token": "default"
+    }
+  ],
+  "name": "testnewof",
+  "permissionTarget": "testnewof-form",
+  "remoteNoSystemColumns": true,
+  "standalone": 0,
+  "standaloneTableNormalized": 0,
+  "token": "testnewof-form"
+}

@@ -1,0 +1,28 @@
+{
+  "fields": [
+    {
+      "component": "Input",
+      "id": "singleLineText",
+      "title": "单行文本",
+      "validation": {
+        "maxLength": 200
+      }
+    },
+    {
+      "component": "Input",
+      "id": "singleLineText",
+      "title": "单行文本",
+      "validation": {
+        "maxLength": 200
+      }
+    },
+    {
+      "component": "Textarea",
+      "id": "multilineText",
+      "title": "多行文本"
+    }
+  ],
+  "form": {
+    "title": "布局"
+  }
+}
