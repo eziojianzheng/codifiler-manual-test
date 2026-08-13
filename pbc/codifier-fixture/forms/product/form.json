@@ -35,6 +35,13 @@
       "type": "TEXTAREA"
     },
     {
+      "maxLength": 200,
+      "name": "数字",
+      "storageField": "value11",
+      "token": "digital",
+      "type": "NUMBER"
+    },
+    {
       "name": "上市日期",
       "storageField": "value5",
       "token": "launchDate",
