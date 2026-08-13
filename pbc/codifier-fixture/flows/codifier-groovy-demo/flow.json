@@ -26,6 +26,68 @@
     },
     {
       "enabled": true,
+      "id": 5,
+      "nodeName": "APP - 根据ID获取表单数据",
+      "sdk": {
+        "input": {
+          "lockUpdate": "false",
+          "needSubFormData": "false"
+        },
+        "inputFields": [
+          {
+            "controlType": "input",
+            "dataType": "string",
+            "label": "查询数据ID",
+            "name": "formEntityDataId",
+            "optional": true
+          },
+          {
+            "controlType": "input",
+            "dataType": "string",
+            "label": "组件编号",
+            "name": "pbcToken",
+            "optional": false
+          },
+          {
+            "controlType": "entity",
+            "label": "表单编号",
+            "name": "formEntityToken",
+            "optional": false
+          },
+          {
+            "controlType": "select",
+            "dataType": "string",
+            "label": "启用密码解密",
+            "name": "enablePwdDecrypt",
+            "optional": true,
+            "pickList": [
+              "true",
+              "false"
+            ]
+          },
+          {
+            "controlType": "select",
+            "dataType": "string",
+            "label": "throwException",
+            "name": "throwException",
+            "optional": false,
+            "pickList": [
+              "true",
+              "false"
+            ]
+          }
+        ],
+        "name": "根据ID获取表单数据",
+        "numberStringToBigDecimal": false,
+        "outputFields": [ ],
+        "sdkType": "INTERNAL_GET_ENTITY_DATA_BY_ID",
+        "uuid": "ef57bcca-ecd4-42b0-af62-375cd65def93"
+      },
+      "type": "APP",
+      "version": "1.0"
+    },
+    {
+      "enabled": true,
       "id": 2,
       "nodeName": "APP - Groovy Script",
       "sdk": {
