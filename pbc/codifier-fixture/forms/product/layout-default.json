@@ -26,11 +26,6 @@
                     },
                     "fields": [
                       {
-                        "component": "NumberPicker",
-                        "id": "digital",
-                        "title": "数字"
-                      },
-                      {
                         "component": "Input",
                         "id": "name",
                         "title": "产品名称",
