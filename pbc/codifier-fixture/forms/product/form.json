@@ -1,7 +1,7 @@
 {
   "contentVersion": "78f7fbb71d9c45d3baeabcd4bc700704",
   "dataLocation": "LOCAL",
-  "description": "RT-NEWCOD-tom-20260813",
+  "description": "cetacommittesttet111",
   "fields": [
     {
       "formEntityId": 9208,
@@ -118,5 +118,6 @@
   "permissionTarget": "product",
   "remoteNoSystemColumns": true,
   "standalone": 0,
+  "standaloneTableNormalized": 0,
   "token": "product"
 }
