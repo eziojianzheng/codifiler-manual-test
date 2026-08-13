@@ -1,0 +1,64 @@
+{
+  "schema": {
+    "fields": [
+      {
+        "component": "Card",
+        "fields": [
+          {
+            "component": "Table",
+            "componentProps": {
+              "addButtonHref": "/form/testnewof-form/layout/default",
+              "columnDefs": [
+                {
+                  "colId": "singleLineText",
+                  "field": "singleLineText",
+                  "headerName": "单行文本",
+                  "type": "TEXT_COLUMN"
+                },
+                {
+                  "cellRendererParams": {
+                    "actions": [
+                      {
+                        "href": "/form/testnewof-form/layout/default/:id",
+                        "type": "EDIT"
+                      },
+                      {
+                        "href": "/form/:id/view",
+                        "type": "VIEW"
+                      },
+                      {
+                        "type": "DELETE"
+                      }
+                    ],
+                    "displayLikeButton": true,
+                    "showIcon": true
+                  },
+                  "type": "ACTION_COLUMN",
+                  "width": 240
+                }
+              ],
+              "dataSource": {
+                "token": "testnewof-form"
+              },
+              "pagination": true,
+              "pinnedFilter": [
+                "singleLineText"
+              ]
+            },
+            "id": "testnewof-form-table",
+            "style": {
+              "height": "100%"
+            }
+          }
+        ],
+        "style": {
+          "height": "100%"
+        }
+      }
+    ],
+    "form": {
+      "title": "testnewof列表"
+    }
+  },
+  "schemaId": "testnewof-form-list"
+}

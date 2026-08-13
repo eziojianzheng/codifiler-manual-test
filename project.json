@@ -1,0 +1,14 @@
+{
+  "project": {
+    "activated": true,
+    "contributor": "Super Admin",
+    "deleted": 0,
+    "description": "Codifier feature 测试专用项目，由自动化测试创建",
+    "enableFormStandaloneTable": 0,
+    "externalDataSourceList": [ ],
+    "frontEndConfig": "$$$$ref:text:frontend/frontEndConfig.json",
+    "name": "Codifier AutoTest",
+    "tags": "test",
+    "token": "codifier-autotest"
+  }
+}
