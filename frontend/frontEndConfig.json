@@ -1,1 +1,7 @@
-{ }
+{
+  "config_$$$NESTED_JSON_STRING$$$": {
+    "config": "{\"appConfig\":{\"template\":\"Template2\",\"mobileTemplate\":\"MobileTemplate1\",\"title\":\"Codifier AutoTest\",\"description\":\"\",\"baseUrl\":\"/ui/\",\"favicon\":\"public/favicon.ico\",\"projectName\":\"\",\"appearance\":\"light\",\"i18n\":{\"allowedLanguages\":[\"zh-CN\"],\"fallbackLng\":\"zh-CN\"},\"templateConfig\":{\"title\":\"Codifier AutoTest\",\"logo\":{\"src\":\"\",\"alt\":\"Logo\"},\"navbar\":{\"appearance\":\"light\",\"items\":[{\"to\":\"/codifier-fixture2/page/testnewof-form-list\",\"label\":\"testnewof列表\",\"icon\":\"oct:home\"}]},\"header\":{},\"sidebar\":{\"collapsible\":true},\"footer\":{},\"login\":{\"template\":\"LoginSplit\"},\"globalSearch\":{\"show\":true}},\"mobileTemplateConfig\":{\"carousel\":{},\"subApps\":[],\"navbar\":{\"items\":[{\"to\":\"/mobile\",\"label\":\"\",\"icon\":\"home\"},{\"to\":\"/mobile/my\",\"label\":\"\",\"icon\":\"person\"}]}},\"themeConfig\":{\"base\":\"\",\"token\":{},\"components\":{},\"cssVars\":{},\"css\":\"\"}},\"routers\":{\"desktop\":{\"/\":{\"pageTitle\":\"\",\"isHomePage\":true}},\"mobile\":{\"/mobile\":{\"pageTitle\":\"\",\"isHomePage\":true,\"showNavBar\":true}}}}",
+    "id": 400,
+    "projectId": 399
+  }
+}
