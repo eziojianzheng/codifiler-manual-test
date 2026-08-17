@@ -1,15 +1,29 @@
 {
+  "bound": null,
+  "businessInfo": null,
   "category": "BUSINESS",
+  "config": null,
+  "contributor": null,
+  "currentUserPermission": null,
   "description": "Codifier 拆分压力测试夹具：涵盖 Groovy/SQL/JS/嵌套JSON/多字段类型",
-  "formDashboardLayoutList": [ ],
-  "formEntityRelationList": [ ],
-  "matchWeight": 0.0,
-  "name": "Codifier Fixturebb",
+  "enableFormStandaloneTable": false,
+  "logo": null,
+  "manifest": null,
+  "name": "Codifier Fixture1",
+  "name_backup": "Codifier Fixture1",
+  "nonStandardFieldsCount": null,
+  "projectId": 399,
+  "publishProjectToken": null,
+  "publishTime": null,
+  "publishUser": null,
+  "releasedBy": null,
+  "releasedFromProjectId": null,
   "routesJson_$$$NESTED_JSON_STRING$$$": {
     "desktop": { },
     "mobile": { }
   },
+  "status": null,
   "tags": "test,codifier",
   "token": "codifier-fixture",
-  "uiPluginList": [ ]
+  "type": null
 }
