@@ -1,18 +1,13 @@
 {
-  "contentVersion": "50330d6de6244daea439a5acee763438",
   "dataLocation": "LOCAL",
   "fields": [
     {
-      "formEntityId": 9450,
-      "id": 98380,
       "name": "多行文本",
       "storageField": "value2",
       "token": "multilineText",
       "type": "TEXTAREA"
     },
     {
-      "formEntityId": 9450,
-      "id": 98652,
       "maxLength": 200,
       "name": "newadd",
       "storageField": "value3",
@@ -20,8 +15,6 @@
       "type": "TEXT_BOX"
     },
     {
-      "formEntityId": 9450,
-      "id": 98377,
       "maxLength": 200,
       "name": "单行文本",
       "storageField": "value1",
@@ -36,8 +29,6 @@
   "layouts": [
     {
       "defaultLayout": true,
-      "formEntityId": 9450,
-      "id": 17485,
       "name": "布局",
       "sortIndex": 0,
       "token": "default"
