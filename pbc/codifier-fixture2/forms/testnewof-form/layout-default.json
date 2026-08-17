@@ -28,6 +28,11 @@
       "validation": {
         "maxLength": 200
       }
+    },
+    {
+      "component": "Textarea",
+      "id": "multilineText",
+      "title": "多行文本"
     }
   ],
   "form": {
