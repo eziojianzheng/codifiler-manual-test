@@ -41,6 +41,14 @@
                       },
                       {
                         "component": "Input",
+                        "id": "singleLineText",
+                        "title": "单行文本",
+                        "validation": {
+                          "maxLength": 200
+                        }
+                      },
+                      {
+                        "component": "Input",
                         "id": "code",
                         "title": "产品编码 \"唯一\"",
                         "validation": {
