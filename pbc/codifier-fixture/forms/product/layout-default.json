@@ -40,6 +40,11 @@
                         }
                       },
                       {
+                        "component": "NumberPicker",
+                        "id": "digitalNumber",
+                        "title": "数字"
+                      },
+                      {
                         "component": "Input",
                         "id": "singleLineText",
                         "title": "单行文本",
