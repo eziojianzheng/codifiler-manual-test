@@ -20,6 +20,14 @@
       "component": "Textarea",
       "id": "multilineText",
       "title": "多行文本"
+    },
+    {
+      "component": "Input",
+      "id": "newadd",
+      "title": "newadd",
+      "validation": {
+        "maxLength": 200
+      }
     }
   ],
   "form": {
