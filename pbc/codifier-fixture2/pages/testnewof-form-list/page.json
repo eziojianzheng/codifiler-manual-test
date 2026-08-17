@@ -1,6 +1,6 @@
 {
-  "contentVersion": "ab59c17da47c4726853d353e4133ae49",
-  "schema": {
+  "schemaId": "testnewof-form-list",
+  "schemaJson_$$$NESTED_JSON_STRING$$$": {
     "fields": [
       {
         "component": "Card",
@@ -60,6 +60,5 @@
     "form": {
       "title": "testnewof列表"
     }
-  },
-  "schemaId": "testnewof-form-list"
+  }
 }

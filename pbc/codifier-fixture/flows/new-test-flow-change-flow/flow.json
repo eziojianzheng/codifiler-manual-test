@@ -1,0 +1,27 @@
+{
+  "name": "newtestflowchange",
+  "nodeList": [
+    {
+      "enabled": true,
+      "id": 1,
+      "nodeName": "APP - 新建表单数据",
+      "sdk": {
+        "formInput": { },
+        "input": {
+          "formEntityToken": "product",
+          "pbcToken": "codifier-fixture"
+        },
+        "inputFields": [ ],
+        "name": "新建表单数据",
+        "numberStringToBigDecimal": false,
+        "outputFields": [ ],
+        "sdkType": "CREATE_ENTITY",
+        "uuid": "739b0a8f-cf7a-4e83-93ca-4ebe55ef80e8"
+      },
+      "type": "APP",
+      "version": "1.0"
+    }
+  ],
+  "restApiEnabled": 0,
+  "token": "new-test-flow-change-flow"
+}

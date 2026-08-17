@@ -1,10 +1,7 @@
 {
-  "contentVersion": "64e5dd4513744f2ca6c2ee541ffe3a6e",
   "dataLocation": "LOCAL",
   "fields": [
     {
-      "formEntityId": 9450,
-      "id": 98380,
       "maxLength": 200,
       "name": "多行文本",
       "storageField": "value2",
@@ -12,8 +9,6 @@
       "type": "TEXTAREA"
     },
     {
-      "formEntityId": 9450,
-      "id": 98377,
       "maxLength": 200,
       "name": "单行文本",
       "storageField": "value1",
@@ -28,8 +23,6 @@
   "layouts": [
     {
       "defaultLayout": true,
-      "formEntityId": 9450,
-      "id": 17485,
       "name": "布局",
       "sortIndex": 0,
       "token": "default"
