@@ -5,7 +5,11 @@
   "formDashboardLayoutList": [ ],
   "formEntityRelationList": [ ],
   "matchWeight": 0.0,
-  "name": "Codifier Fixture 2",
+  "name": "Codifier Fixture 23",
+  "routesJson_$$$NESTED_JSON_STRING$$$": {
+    "desktop": { },
+    "mobile": { }
+  },
   "tags": "test,codifier",
   "token": "codifier-fixture2",
   "uiPluginList": [ ]

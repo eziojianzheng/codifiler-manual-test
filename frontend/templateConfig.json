@@ -37,6 +37,15 @@
     "showRole": false
   },
   "userMenu": {
-    "items": [ ]
+    "items": [
+      {
+        "category": null,
+        "icon": "solar:users-group-rounded-outline",
+        "key": "961a80b9",
+        "label": "User Management",
+        "openInDialog": false,
+        "to": "/user-management-new"
+      }
+    ]
   }
 }

@@ -17,6 +17,11 @@
       }
     },
     {
+      "component": "NumericPicker",
+      "id": "highPrecisionDigital",
+      "title": "高精度数字"
+    },
+    {
       "component": "Textarea",
       "id": "multilineText",
       "title": "多行文本"

@@ -2,6 +2,13 @@
   "dataLocation": "LOCAL",
   "fields": [
     {
+      "maxLength": 200,
+      "name": "高精度数字",
+      "storageField": "value4",
+      "token": "highPrecisionDigital",
+      "type": "NUMERIC"
+    },
+    {
       "name": "多行文本",
       "storageField": "value2",
       "token": "multilineText",

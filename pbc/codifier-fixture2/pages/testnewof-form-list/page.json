@@ -6,6 +6,11 @@
         "component": "Card",
         "fields": [
           {
+            "component": "Rate",
+            "id": "rating",
+            "title": "评分"
+          },
+          {
             "component": "Table",
             "componentProps": {
               "addButtonHref": "/form/testnewof-form/layout/default",
