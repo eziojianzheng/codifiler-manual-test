@@ -2,9 +2,19 @@
   "appearance": "light",
   "items": [
     {
+      "children": [
+        {
+          "category": null,
+          "icon": "solar:lightbulb-bolt-outline",
+          "key": "dd19e456",
+          "label": "Codifier Fixture1",
+          "to": "/codifier-fixture"
+        }
+      ],
       "icon": "oct:home",
       "label": "testnewof列表",
       "to": "/codifier-fixture2/page/testnewof-form-list"
     }
-  ]
+  ],
+  "position": "sidebar"
 }

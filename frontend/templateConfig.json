@@ -1,9 +1,17 @@
 {
   "footer": { },
   "globalSearch": {
-    "show": true
+    "inline": false,
+    "position": "sidebar",
+    "show": true,
+    "triggerSize": "narrow"
   },
   "header": { },
+  "languageSwitcher": {
+    "position": "sidebar",
+    "show": true,
+    "showLabel": true
+  },
   "login": {
     "template": "LoginSplit"
   },
@@ -12,8 +20,22 @@
     "src": ""
   },
   "navbar": "$$$$ref:text:navbar.json",
+  "notifications": {
+    "position": "sidebar",
+    "show": true,
+    "showNumber": true
+  },
+  "showKeepSignedIn": false,
   "sidebar": {
     "collapsible": true
   },
-  "title": "Codifier AutoTest"
+  "title": "Codifier AutoTest",
+  "userInfo": {
+    "position": "sidebar",
+    "show": true,
+    "showRole": false
+  },
+  "userMenu": {
+    "items": [ ]
+  }
 }

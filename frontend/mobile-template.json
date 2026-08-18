@@ -14,5 +14,9 @@
       }
     ]
   },
-  "subApps": [ ]
+  "subApps": [ ],
+  "tabBar": {
+    "items": [ ]
+  },
+  "tabBarUsed": false
 }
