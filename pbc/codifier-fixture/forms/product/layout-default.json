@@ -27,6 +27,11 @@
                     "fields": [
                       {
                         "component": "NumberPicker",
+                        "id": "number",
+                        "title": "数字"
+                      },
+                      {
+                        "component": "NumberPicker",
                         "id": "digital",
                         "title": "数字"
                       },
