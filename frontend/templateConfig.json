@@ -17,7 +17,8 @@
   },
   "logo": {
     "alt": "Logo",
-    "src": ""
+    "src": "",
+    "width": 3213
   },
   "navbar": "$$$$ref:text:navbar.json",
   "notifications": {
