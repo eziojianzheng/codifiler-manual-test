@@ -68,13 +68,17 @@
               "dataSource": {
                 "token": "product"
               },
-              "pagination": true,
-              "pinnedFilter": [ ]
+              "pagination": true
             },
             "id": "product-table",
             "style": {
               "height": "450px"
             }
+          },
+          {
+            "component": "NumberPicker",
+            "id": "number",
+            "title": "数字"
           }
         ],
         "style": {
